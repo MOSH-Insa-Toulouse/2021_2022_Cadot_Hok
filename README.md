@@ -30,6 +30,8 @@ We observed the following messages on TTN when filming the demonstration (3 peri
 
 ![image](https://user-images.githubusercontent.com/55708764/152640504-919f4db8-500b-4372-9535-e3817cbb39ef.png)
 
+Unfortunately, we did not have the time to realise a shield with KiCAD. We stayed with the breadboard version until the end.
+
 ## 3- Red track: Energy management
 We did not realise this part as we thought our system was simple and small. We chose to focus on the black track.
 
