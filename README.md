@@ -6,7 +6,7 @@ We tested the send and receive functions of the LoRa module by sending raw comma
 
 ![image](https://user-images.githubusercontent.com/55708764/152640016-b9ba3d7e-3fbe-475b-9fb7-583ef6a1ae15.png)
 
-We added a decoded in the application, converting ASCII codes to recognizable text:
+We added a decoder in the application, converting ASCII codes to recognizable text:
 
 ![image](https://user-images.githubusercontent.com/55708764/152640048-8187989a-2f98-4e14-9180-2ac3669f694b.png)
 
